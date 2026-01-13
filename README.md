@@ -1,12 +1,10 @@
 # React Native ToDo App
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app) to create a simple ToDo app in React Native. Here you can understand how to implement CRUD operations in react native. Also this app has local storage added to it with AsyncStorage. 
-
-Libraries used in this project
-
-- [Expo](https://expo.dev)
-- [Expo Checkbox](https://docs.expo.dev/versions/latest/sdk/checkbox/)
-- [AsyncStorage](https://docs.expo.dev/versions/latest/sdk/async-storage/)
+A simple ToDo application built with Expo using .
+This project demonstrates how to implement CRUD operations in React Native and persist data locally with AsyncStorage.
+📚 Libraries Used
+- Expo – project setup and development environment
+- Expo Checkbox – for interactive task selection
+- AsyncStorage – for local data storage
 
 
 ## Get started
@@ -23,11 +21,3 @@ Libraries used in this project
     npx expo start
    ```
 
-## App Screenshot
-![React Native ToDo App](./todo-app-iphone-demo.png)
-
-## Watch it on YouTube
-
-This repository is part of a tutorial on my [YouTube channel](https://www.youtube.com/@itzpradip). Check out the complete tutorial on YouTube by clicking below. 👇
-
-[![React Native ToDo App Tutorial for Beginners](https://img.youtube.com/vi/CfSK9niSAxY/0.jpg)](https://youtu.be/CfSK9niSAxY)
